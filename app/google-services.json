@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "298309901040",
+    "firebase_url": "https://younglingsapp2.firebaseio.com",
+    "project_id": "younglingsapp2",
+    "storage_bucket": "younglingsapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298309901040:android:8dce670dec507211",
+        "android_client_info": {
+          "package_name": "com.example.younglings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298309901040-51fn7nvd9vp4oq32r6ss4qsmo084mffv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.younglings",
+            "certificate_hash": "ba2ef5206ae7f6f7d5927744eef74e39dd907d43"
+          }
+        },
+        {
+          "client_id": "298309901040-vvt7vdb38qgtbhatos2uu4ll7otnuohq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcjVInu3QUV1ccBnWHrkIWVkCaMa4fg6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298309901040-vvt7vdb38qgtbhatos2uu4ll7otnuohq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
