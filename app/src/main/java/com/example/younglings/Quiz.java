@@ -85,7 +85,7 @@ public class Quiz extends AppCompatActivity implements View.OnClickListener {
                 }else{
 
 
-                   Intent homeIntent = new Intent(Quiz.this, Good.class);
+                   Intent homeIntent = new Intent(Quiz.this, MainActivity.class);
                     startActivity(homeIntent);
                     finish();
                 }
@@ -227,7 +227,7 @@ if (index<5){
 
         }else{
 
-            Toast.makeText(this,"Done",Toast.LENGTH_LONG);
+            Toast.makeText(this,"Done",Toast.LENGTH_LONG).show();
 
         }
     }
