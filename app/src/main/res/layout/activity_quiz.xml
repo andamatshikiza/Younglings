@@ -96,7 +96,7 @@
     <Button
         android:id="@+id/btnB"
         android:layout_width="399dp"
-        android:layout_height="43dp"
+        android:layout_height="42dp"
         android:layout_marginStart="4dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="4dp"
@@ -109,8 +109,8 @@
 
     <Button
         android:id="@+id/btnC"
-        android:layout_width="405dp"
-        android:layout_height="46dp"
+        android:layout_width="399dp"
+        android:layout_height="42dp"
         android:layout_marginStart="4dp"
         android:layout_marginTop="16dp"
         android:layout_marginEnd="4dp"
@@ -127,8 +127,8 @@
 
     <Button
         android:id="@+id/btnDone"
-        android:layout_width="407dp"
-        android:layout_height="50dp"
+        android:layout_width="399dp"
+        android:layout_height="42dp"
         android:layout_marginStart="4dp"
         android:layout_marginEnd="4dp"
         android:layout_marginBottom="28dp"

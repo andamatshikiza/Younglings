@@ -1,4 +1,4 @@
-package com.example.younglings;
+package com.example.younglings.Model;
 
 public class Scoreboard {
 
